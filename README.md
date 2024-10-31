@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently exploring **Java, Spring Boot and Devops.**
 
-- 👨‍💻 All of my projects are available at [https://vishalkumar31.netlify.app/](https://vishalkumar31.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://vishalkumar31.netlify.app/)
 
 - 💬 Ask me anything about **Full Stack Technologies**
 
