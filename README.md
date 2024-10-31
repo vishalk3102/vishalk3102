@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
-<h3 align="center">I am a Computer Science and Engineering graduate with hands-on experience in building secure and scalable software solutions across diverse tech stacks, eager to drive impactful projects and explore new technologies.</h3>
+<h3 align="center">I am a Software Engineer with hands-on experience in building secure and scalable software solutions across diverse tech stacks, eager to drive impactful projects and explore new technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalk3102&label=Profile%20views&color=0e75b6&style=flat" alt="vishalk3102" /> </p>
 
