@@ -1,19 +1,20 @@
-<h1 align="center">Hi 👋, I'm Vishal kumar</h1>
-<h3 align="center">I'm a Computer Science and Engineering student who is passionate about building tech and learning new technologies</h3>
+<h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
+<h3 align="center">I am a Computer Science and Engineering graduate with hands-on experience in building secure and scalable software solutions across diverse tech stacks, eager to drive impactful projects and explore new technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalk3102&label=Profile%20views&color=0e75b6&style=flat" alt="vishalk3102" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalk3102" alt="vishalk3102" /></a> </p>
 
-- 🔭 I’m currently working on **Web development technologies like Javascript ,React etc**
+- 🔭 I’m currently working on my project, **Optifolio—Stock Management and Ledger Application**
 
-- 🌱 I’m currently learning **Everything about Frontend and Backend technologies**
+- 🌱 I’m currently exploring **Java Spring full-stack technologies**
 
-- 💬 Ask me anything about **web development**
+- 💬 Ask me anything about **full-stack development**
 
-- 📫 How to reach me **vishal.k3102@outlook.com**
+- 📫 How to reach me **vishal.k3102@gmail.com**
 
-- ⚡ Fun fact **I like to do trading in stocks**
+- ⚡ Fun fact: **I like to do trading in stocks**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
